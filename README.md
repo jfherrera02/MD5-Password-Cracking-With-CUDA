@@ -8,3 +8,6 @@ I used the RockYou wordlist for testing and measured the time for both file read
 
 # Results
 <img src="https://github.com/jfherrera02/MD5-Password-Cracking-With-CUDA/blob/main/images/CUDA-crack.png?raw=true" alt="CUDA password cracking output" width="650"/>
+
+# Speed-Up Graph Using Amdahl's Law
+<img src="https://github.com/jfherrera02/MD5-Password-Cracking-With-CUDA/blob/main/images/Amdahl-graph.png?raw=true" alt="Amdahl's Law speed-up graph" width="700"/>
